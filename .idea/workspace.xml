@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7d4bfcc-2eed-4c0d-a65a-731ef58707ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/d3a.io-QA-task/d3a.io/cypress.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d3a.io-QA-task/d3a.io/cypress/fixtures/user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d3a.io-QA-task/d3a.io/cypress/integration/Project.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d3a.io-QA-task/d3a.io/cypress/integration/Project/Project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d3a.io-QA-task/d3a.io/cypress/integration/loginTest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d3a.io-QA-task/d3a.io/cypress/integration/simulation.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d3a.io-QA-task/d3a.io/cypress/integration/simulation/simulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d3a.io-QA-task/d3a.io/cypress/plugins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d3a.io-QA-task/d3a.io/cypress/support/selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d3a.io-QA-task/d3a.io/cypress/support/testCommands/simulatorCommand.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/d3a.io-QA-task" />
+  </component>
+  <component name="ProjectId" id="1uCzAu0sLBz6RQBYn5un7sZ6c8W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vgncore_cypress" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\esther.okafor\Desktop\d3a.io task\cypress" />
+      <recent name="C:\Users\esther.okafor\Desktop\d3a.io task\d3a.io-QA-task\d3a.io\cypress" />
+      <recent name="C:\Users\esther.okafor\Desktop\d3a.io task\d3a.io-QA-task\d3a.io" />
+      <recent name="C:\Users\esther.okafor\Desktop\d3a.io task\d3a.io-QA-task\d3a.1o" />
+      <recent name="C:\Users\esther.okafor\Desktop\d3a.io task\d3a.io-QA-task" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="npx cypress open" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="npx cypress open" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7d4bfcc-2eed-4c0d-a65a-731ef58707ec" name="Default Changelist" comment="" />
+      <created>1624184219062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624184219062</updated>
+      <workItem from="1624184220394" duration="82000" />
+      <workItem from="1624197120859" duration="1695000" />
+      <workItem from="1624198853147" duration="1873000" />
+      <workItem from="1624200763826" duration="1818000" />
+      <workItem from="1624202634854" duration="1776000" />
+      <workItem from="1624204590202" duration="1903000" />
+      <workItem from="1624206605557" duration="1827000" />
+      <workItem from="1624208477472" duration="1782000" />
+      <workItem from="1624210659177" duration="1781000" />
+      <workItem from="1624212471018" duration="1767000" />
+      <workItem from="1624214294062" duration="1810000" />
+      <workItem from="1624216136036" duration="668000" />
+      <workItem from="1624223971919" duration="1783000" />
+      <workItem from="1624225841914" duration="311000" />
+      <workItem from="1624273284949" duration="1749000" />
+      <workItem from="1624275072525" duration="1778000" />
+      <workItem from="1624277568234" duration="1783000" />
+      <workItem from="1624279403776" duration="1527000" />
+      <workItem from="1624281431959" duration="1784000" />
+      <workItem from="1624283245976" duration="1796000" />
+      <workItem from="1624285078162" duration="1896000" />
+      <workItem from="1624287008632" duration="1783000" />
+      <workItem from="1624288821460" duration="1785000" />
+      <workItem from="1624290639365" duration="1805000" />
+      <workItem from="1624292472342" duration="1782000" />
+      <workItem from="1624294290695" duration="1851000" />
+      <workItem from="1624296178691" duration="1884000" />
+      <workItem from="1624298094320" duration="1792000" />
+      <workItem from="1624299913200" duration="1901000" />
+      <workItem from="1624301862927" duration="930000" />
+      <workItem from="1624311539257" duration="1372000" />
+      <workItem from="1624313367396" duration="313000" />
+      <workItem from="1624313947632" duration="1666000" />
+      <workItem from="1624315788443" duration="1778000" />
+      <workItem from="1624317603658" duration="934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
